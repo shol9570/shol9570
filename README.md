@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @shol9570
+- 👀 I’m interested in game developing
+- 🌱 I’m currently learning hlsl shader and VFX
+- 💞️ I’m looking to collaborate on indie game developing
+- 📫 You can reach me at shol619570@gmail.com
+- 😊 Or you can reach my portfolio at https://github.com/shol9570/Portfolio (It is not complete yet. But you could know what I've made and my interests!)
